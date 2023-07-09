@@ -38,7 +38,7 @@ git clone https://github.com/your-username/NFT-Powered-OnChain-DAO
 3. Install the necessary dependencies:
 
  ``` cd crypto-devs-dao```
- ``` npm install``
+ ```  npm install  ```
 
 
 4. Set up the required environment variables. Refer to the `.env.example` file for the required variables.
