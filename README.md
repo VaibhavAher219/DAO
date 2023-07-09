@@ -33,7 +33,7 @@ To get started with CryptoDevs DAO, follow these steps:
 
 npx hardhat run scripts/deploy.js
 
-git clone https://github.com/your-username/crypto-devs-dao.git
+git clone https://github.com/your-username/NFT-Powered-OnChain-DAO
 
 3. Install the necessary dependencies:
 
