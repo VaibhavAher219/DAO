@@ -1,0 +1,31 @@
+{
+  "name": "nft-powered-dao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavAher219/NFT-Powered-OnChain-DAO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaibhavAher219/NFT-Powered-OnChain-DAO/issues"
+  },
+  "homepage": "https://github.com/VaibhavAher219/NFT-Powered-OnChain-DAO#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "@rainbow-me/rainbowkit": "^1.0.5",
+    "dotenv": "^16.3.1",
+    "viem": "^1.2.11",
+    "wagmi": "^1.3.8"
+  }
+}
