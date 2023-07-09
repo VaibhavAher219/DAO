@@ -1,14 +1,4 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node# CryptoDevs DAO
+## DAO
 
 CryptoDevs DAO is a decentralized autonomous organization that enables NFT owners to collectively make purchasing decisions for different NFTs from an NFT marketplace. With the power of blockchain technology, CryptoDevs DAO allows NFT holders to propose, vote, and execute purchases in a transparent and democratic manner.
 
