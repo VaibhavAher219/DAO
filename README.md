@@ -1,6 +1,6 @@
 ## DAO
 
-CryptoDevs DAO is a decentralized autonomous organization that enables NFT owners to collectively make purchasing decisions for different NFTs from an NFT marketplace. With the power of blockchain technology, CryptoDevs DAO allows NFT holders to propose, vote, and execute purchases in a transparent and democratic manner.
+This DAO is a decentralized autonomous organization that enables NFT owners to collectively make purchasing decisions for different NFTs from an NFT marketplace. With the power of blockchain technology, CryptoDevs DAO allows NFT holders to propose, vote, and execute purchases in a transparent and democratic manner.
 
 ## Table of Contents
 - [How It Works](#how-it-works)
